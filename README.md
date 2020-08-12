@@ -29,7 +29,7 @@ Barron's provided a list of the large-cap mutual funds that received an "above a
 
 Taking this information from Barron's, our group compiled the daily closing prices from 2010-2020 from Bloomberg to see how these funds performed over a 10 year time period. To further our analysis, the group collected the ESG rankings and various value & growth measures (i.e. P/E ratio, risk rating) from Morningstar to better understand some of the characteristics of the sustainable funds. 
 
-Altogether the team utlized 4 different data sets from Barron's, Morningstar and Bloomberg. This data was concatendated into one dataframe to do our analysis. 
+Altogether the team utlized 4 different data sets from Barron's, Morningstar and Bloomberg. This data was concatenated into one dataframe to do our analysis. 
 
 # Data Cleanup & Exploration
 The exploration process was challenging because we wanted access to data that typically required a paid subscription. Fortunately we were able to leverage colleagues and free trials to collect the necessary data. 
