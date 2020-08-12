@@ -1,5 +1,5 @@
 # Columbia Fintech Bootcamp - Project 1
-*Assignment - Using Python and JupyterLab to Analyze Data*
+*Assignment - Analyze a dataset using Python*
 
 # Sustainable Investing vs Index Fund Investing 
 
@@ -13,7 +13,7 @@
 Is there a price to be paid by investing in ESG mutual funds? How do mutual funds with high sustainability ratings perform against the S&P 500? 
 
 # Hypothesis:
- Actively managed mutual funds tend to underperform passively managed or index funds on a regular basis. 
+Actively managed mutual funds tend to underperform passively managed or index funds on a regular basis. 
  
 S&P Down Jones Indices released a report in 2019 and found that 85.1% of actively managed large-cap funds lagged the S&P 500 over a 10 year period:
 
