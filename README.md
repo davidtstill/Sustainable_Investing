@@ -189,5 +189,3 @@ Sources:
   2. https://www.cnbc.com/2019/03/15/active-fund-managers-trail-the-sp-500-for-the-ninth-year-in-a-row-in-triumph-for-indexing.html
   3. https://www.morningstar.com/
   4. https://www.barrons.com/articles/top-esg-funds-our-annual-ranking-finds-sustainable-funds-are-increasingly-beating-the-market-51579301101
-
-​
