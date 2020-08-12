@@ -1,6 +1,6 @@
 # Columbia Fintech Bootcamp - Project 1
 
-# Sustainable Investing vs Index Fund Investing
+# Sustainable Investing vs Index Fund Investing Using Python
 
 ## Team Members:
 - David Still
