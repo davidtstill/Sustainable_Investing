@@ -1,5 +1,5 @@
-# Columbia Fintech Bootcamp - 
-*Using Python and Jupyter Lab to Analyze Data*
+# Columbia Fintech Bootcamp  
+*Using Python and JupyterLab to Analyze Data*
 
 # Sustainable Investing vs Index Fund Investing 
 
