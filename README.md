@@ -1,6 +1,6 @@
-# Columbia Fintech Bootcamp - Project 1
+# Columbia Fintech Bootcamp - Using Python and Jupyter Lab to Analyze Data
 
-# Sustainable Investing vs Index Fund Investing Using Python
+# Sustainable Investing vs Index Fund Investing 
 
 ## Team Members:
 - David Still
