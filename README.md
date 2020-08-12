@@ -45,16 +45,14 @@ The biggest issue that we faced was that the dataframes would still not concaten
  
 1. How do mutual funds with strong ESG investment policies compare to respective benchmark (i.e S&P 500)? 
 2. What is the relationship between fund performance and standard deviation of the Top 20 Funds?
-3. How did the Sharpe ratios show for the top 20 funds?
-4. What is the correlation between the Top 20 Funds?
-5. What is the comparison of EPS Growth, Returns, P/E Ratio for all Mutual Funds?
-6. What are the various fund categories of the list of 128 mutual funds?
-7. What is the average risk rating for each fund category?
-8. How do E, S and G values compare to each other?
+3. How did the Sharpe ratios compare for the top 20 performing funds?
+4. What is the correlation between the Top 20 performing funds?
+5. How does EPS growth, returns and the P/E Ratio compare for all the mutual funds?
+6. What are the various fund categories of the list of 128 mutual funds? Do they all employ value or growth strategies?
+7. What is the average risk rating for each fund category? We assume that growth strategies are riskier than value ones.
+8. How do the E, S and G components of ESG score respectively?
 9. Of the funds that outperform the index, which of the sustainability metrics do the funds score highest in?
-10. How does the top 20 sustainable funds ESG scores compare to the S&P 500?
-
-
+10. How do the top 20 sustainable funds ESG scores compare to the S&P 500?
 
 
 
