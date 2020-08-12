@@ -172,7 +172,7 @@ To reiterate from the anaylsis above, out of 129 funds that we analyzed, the S&P
 Prior to our research, we assumed the list provided by Barron only incorperated funds that had sustainable mandates. After our anaylsis, we learned that only 5 out of 20 top performing mutual funds actually had sustainable mandates. This means that investors do not need to explicity invest in mutual funds with sustainable mandates in order to acheive their desired investment criteria. 
 
 
-S&P 500 index has comparable ESG ratings compared to the top 20 funds. This surprised us because the index comprises companies from many different industries. This would seem to indiciate that many companies within the S&P500 index are already implementing ESG policies.
+The S&P 500 index has comparable ESG ratings compared to the top 20 funds. This surprised us because the index comprises companies from many different industries. This would seem to indiciate that many companies within the S&P500 index are already implementing ESG policies. 
 
 
 
