@@ -32,7 +32,7 @@ Taking this information from Barron's, our group compiled the daily closing pric
 Altogether the team utlized 4 different data sets from Barron's, Morningstar and Bloomberg. This data was concatendated into one dataframe to do our analysis. 
 
 # Data Cleanup & Exploration
-The exploration process was challenging because we wanted access to data that typically required a paid subscription. Forttunately we were able to leverage colleagues and free trials to collect the necessary data. 
+The exploration process was challenging because we wanted access to data that typically required a paid subscription. Fortunately we were able to leverage colleagues and free trials to collect the necessary data. 
 
 We first did the typical things one would do when they pull data from different sources. We removed extra columns that were not needed, dropped any rows that had null or missing values and renamed columns that had unnecessary or confusing symbols.  
 
