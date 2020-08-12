@@ -29,14 +29,14 @@ Barron's provided a list of the large-cap mutual funds that received an "above a
 
 Taking this information from Barron's, our group compiled the daily closing prices from 2010-2020 from Bloomberg to see how these funds performed over a 10 year time period. To further our analysis, the group collected the ESG rankings and various value & growth measures (i.e. P/E ratio, risk rating) from Morningstar to better understand some of the characteristics of the sustainable funds. 
 
-Altogether the team utlized 4 different data sets from Barron's, Morningstar and Bloomberg. This data was concatenated into one dataframe to do our analysis. 
+Altogether the team utlized 4 different data sets from Barron's, Morningstar and Bloomberg. This data was then concatenated into one dataframe to do our analysis. 
 
 # Data Cleanup & Exploration
 The exploration process was challenging because we wanted access to data that typically required a paid subscription. Fortunately we were able to leverage colleagues and free trials to collect the necessary data. 
 
-We first did the typical things one would do when they pull data from different sources. We removed extra columns that were not needed, dropped any rows that had null or missing values and renamed columns that had unnecessary or confusing symbols.  
+We first started by pre-procesing the data. We removed extra columns that were not needed, dropped any rows that had null or missing values and renamed columns that had unnecessary or confusing symbols. Since our data came from many different sources, each one had different pre-processing requirements.  
 
-The first issue that we needed to address was ensuring that we set the ticker symbols as index when we created the individual dataframes. If we did not do this, then we could not concatenate all the dataframes. This was not too challenging.
+After pre-processing the data, the first issue that we needed to address was ensuring that we set the ticker symbols as index when we created the individual dataframes. If we did not do this, then we could not concatenate all the dataframes. This was not too challenging.
 
 The biggest issue that we faced was that the dataframes would still not concatenate properly even after ensuring that indexes were the same. After several hours of trial and error, we eventually found that one of the CSV files contained spaces *before and after* the ticker symbol. Naturally, none of us considered that a well-known data provider would include unncessary spaces before and after the ticker symbols. Had we examined the CSV files more carefully we could have potentially caught this earlier.
 
