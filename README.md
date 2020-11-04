@@ -20,7 +20,7 @@ S&P Down Jones Indices released a report in 2019 and found that 85.1% of activel
 ![alt text](Images/cnbc.png)
 
 
-Since sustainable funds need to be actively managed in order to select companies that meet certain criteria, our team surmised that at least 50% of the sustainable funds will underperform the S&P 500 over a 10 year period. 
+Since sustainable funds need to be actively managed in order to select companies that meet certain criteria, our team surmised that at least 50% of the sustainable funds should underperform the S&P 500 over a 10 year period. 
 
 If an investor feels that sustainable investing is important, how much will it cost them in returns? Will investors in sustainable funds have to deal with lower performance and higher volatility? 
 
